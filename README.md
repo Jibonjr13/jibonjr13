@@ -1,4 +1,4 @@
-# Hi there, I'm Jibon 👋
+# Hi, I'm Jibon 👋
 
 🎓 Computer Science Student  
 💻 Passionate about Competitive Programming, Web Development, and Cyber Security  
