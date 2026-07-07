@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jibon</h1>
 
 <h3 align="center">
-Computer Science Student | Competitive Programmer | Web Developer | Cyber Security Enthusiast
+Computer Science Student | Competitive Programmer | Web Developer 
 </h3>
 
 <p align="center">
