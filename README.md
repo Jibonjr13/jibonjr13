@@ -1,19 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jibon</h1>
-
-<h3 align="center">
-Computer Science Student | Competitive Programmer | Web Developer 
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Competitive+Programmer;Web+Developer;Data+Structures+%26+Algorithms;Always+Learning+New+Things" />
-</p>
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Jibonjr13&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
+<p align="center"> <img src="bannarForGithub.png" width="100%" /> </p>
 
 ## 🚀 About Me
 
