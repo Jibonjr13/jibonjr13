@@ -5,8 +5,7 @@
 - 🎓 Computer Science Student
 - 💻 Passionate about Competitive Programming
 - 🌐 Interested in Full Stack Web Development
-- 🔐 Learning Cyber Security
-- 🧠 Strong in Data Structures & Algorithms
+- 🧠 Love learning Data Structures & Algorithms.
 - 🚀 Love solving real-world problems through code
 - 📚 Currently exploring Advanced Algorithms & Modern Web Technologies
 
@@ -16,19 +15,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,git,github,vscode" />
-
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jibonjr13&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jibonjr13&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css," />
 
 </p>
 
