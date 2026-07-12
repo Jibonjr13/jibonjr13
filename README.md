@@ -8,37 +8,7 @@
 - 🧠 Love learning Data Structures & Algorithms.
 - 🚀 Love solving real-world problems through code
 - 📚 Currently exploring Advanced Algorithms & Modern Web Technologies
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css," />
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Jibonjr13&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jibonjr13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</p>
-
+- 
 ---
 
 ## 📈 Contribution Graph
