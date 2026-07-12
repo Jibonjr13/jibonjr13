@@ -95,15 +95,6 @@ Computer Science Student | Competitive Programmer | Web Developer
 
 ---
 
-## 🎯 Current Focus
-
-- 🚀 Competitive Programming
-- 📚 Advanced Data Structures & Algorithms
-- 🌐 Full Stack Web Development
-- 🔐 Cyber Security
-
----
-
 ## 🛠 Languages
 
 <p align="center">
@@ -121,20 +112,6 @@ Computer Science Student | Competitive Programmer | Web Developer
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 </p>
-
----
-
-## 🎯 Goals
-
-✅ Solve 1000+ Programming Problems
-
-✅ Become an Expert Competitive Programmer
-
-✅ Build Real-World Projects
-
-✅ Contribute to Open Source
-
-✅ Become a Software Engineer
 
 ---
 
