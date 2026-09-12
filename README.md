@@ -107,38 +107,35 @@
 
 ---
 
+---
+
 <h2 align="center">Connect With Me</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <a href="https://github.com/Jibonjr13">
-        <img src="https://skillicons.dev/icons?i=github" width="50"/>
-        <br/>
-        <b>GitHub</b>
-      </a>
-    </td>
+<p align="center">
 
-```
-<td align="center" width="150">
-  <a href="https://codeforces.com/profile/Alpha_rays">
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="50"/>
-    <br/>
-    <b>Codeforces</b>
-  </a>
-</td>
+<a href="https://github.com/Jibonjr13">
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  <br/>
+  <b>GitHub</b>
+</a>
 
-<td align="center" width="150">
-  <a href="https://leetcode.com/u/Alpha_rays/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50"/>
-    <br/>
-    <b>LeetCode</b>
-  </a>
-</td>
-```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  </tr>
-</table>
+<a href="https://codeforces.com/profile/Alpha_rays">
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="50"/>
+  <br/>
+  <b>Codeforces</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/Alpha_rays/">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50"/>
+  <br/>
+  <b>LeetCode</b>
+</a>
+
+</p>
 
 ---
 
