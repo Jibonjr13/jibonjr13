@@ -5,7 +5,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  Computer Science Student | Competitive Programmer | Full Stack Web Developer
+  CSE Graduate | Competitive Programmer | Full Stack Web Developer
 </p>
 
 <p align="center">
