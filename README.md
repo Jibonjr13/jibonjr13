@@ -1,14 +1,16 @@
-<p align="center"> <img src="bannarForGithub.png" width="100%" /> </p>
+<p align="center">
+  <img src="bannarForGithub.png" width="100%" />
+</p>
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
-- 💻 Passionate about Competitive Programming
-- 🌐 Interested in Full Stack Web Development
-- 🧠 Love learning Data Structures & Algorithms.
-- 🚀 Love solving real-world problems through code
-- 📚 Currently exploring Advanced Algorithms & Modern Web Technologies
- 
+* 🎓 Computer Science Student
+* 💻 Passionate about Competitive Programming
+* 🌐 Interested in Full Stack Web Development
+* 🧠 Love learning Data Structures & Algorithms
+* 🚀 Love solving real-world problems through code
+* 📚 Currently exploring Advanced Algorithms & Modern Web Technologies
+
 ---
 
 ## 📈 Contribution Graph
@@ -37,7 +39,9 @@
 
 ---
 
-## 🛠 Languages
+## 🛠 Languages & Technologies
+
+### 💻 Programming Languages
 
 <p align="center">
 
@@ -49,9 +53,29 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
+</p>
+
+### 🌐 Frontend
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
 </p>
 
